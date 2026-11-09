@@ -19,12 +19,12 @@
 
 3. **Chạy thử:**
    ```bash
-   python3 template.py
+   python template.py
    ```
 
 4. **Kiểm thử autograder:**
    ```bash
-   python3 -m pytest ../autograder/test_agent.py -v
+   python -m pytest ./autograder/test_agent.py -v
    ```
 
 ## Lưu Ý
